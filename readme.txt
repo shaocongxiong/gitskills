@@ -3,3 +3,4 @@ zen me ban ne
 help me
 Create a new branch is quick and simple.
 add merge.
+xiu fu bug.
